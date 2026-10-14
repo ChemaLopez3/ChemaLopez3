@@ -13,7 +13,7 @@
 <!-- <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp; -->
 <img src="https://img.shields.io/badge/Alicante,_Spain-151515?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Alicante, Spain"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to_Internships-151515?style=for-the-badge&logo=handshake&logoColor=22D3EE" alt="Open to internships"/>
+<img src="https://img.shields.io/badge/Open_to_Internships-151515?style=for-the-badge" alt="Open to internships"/>
 
 <br/><br/>
 
@@ -29,7 +29,7 @@
 
 <h3><img src="https://api.iconify.design/tabler/user-code.svg?color=%2322d3ee&width=22" align="top" alt=""/>&nbsp; About</h3>
 
-Third-year **Biomedical Engineering** student at the **Universidad de Alicante**, focused on the software side of health technology.
+Fourth-year **Biomedical Engineering** student at the **Universidad de Alicante**, focused on the software side of health technology.
 
 I build across the stack — **Java** services and **REST APIs** on relational databases, **Python** and **MATLAB** for biomedical data analysis — and ship them in **Docker** so they run the same everywhere.
 
@@ -78,15 +78,19 @@ I build across the stack — **Java** services and **REST APIs** on relational d
 <h3><img src="https://api.iconify.design/tabler/briefcase.svg?color=%2322d3ee&width=22" align="top" alt=""/>&nbsp; Background</h3>
 
 **B.Sc. Biomedical Engineering**<br/>
-<sub>Universidad de Alicante · 3rd year, in progress</sub>
+<sub>Universidad de Alicante · 4th year, in progress</sub>
 
-**Camp Counselor &amp; Lifeguard**<br/>
-<sub>Netop Summer Camp, Maine, USA · Summers 2022 &amp; 2023</sub><br/>
-Led groups of 8–15 year-olds in an English-speaking environment: coordination, conflict resolution and activity logistics.
+**Dive &amp; Snorkel Guide**<br/>
+<sub>Scuba Elx, Santa Pola, Spain · June – September 2026</sub><br/>
+Led scuba diving and snorkeling trips, ensuring safety and a great experience for every group, and managed the boat rental operation.
 
 **Hospitality Staff**<br/>
 <sub>Camping &amp; Resort La Marina, Spain · Summer 2025</sub><br/>
 Fast-paced, customer-facing team operations.
+
+**Camp Counselor &amp; Lifeguard**<br/>
+<sub>Netop Summer Camp, Maine, USA · Summers 2022 &amp; 2023</sub><br/>
+Led groups of 8–15 year-olds in an English-speaking environment: coordination, conflict resolution and activity logistics.
 
 </td>
 <td width="45%" valign="top">
@@ -98,17 +102,52 @@ Fast-paced, customer-facing team operations.
 <img src="https://img.shields.io/badge/German-A2-151515?style=flat-square&labelColor=151515&color=0F2A44" alt="German — A2"/><br/>
 <img src="https://img.shields.io/badge/French-Basic-151515?style=flat-square&labelColor=151515&color=0F2A44" alt="French — Basic"/>
 
-<br/>
+<br/><br/>
 
-<h3><img src="https://api.iconify.design/tabler/bolt.svg?color=%2322d3ee&width=22" align="top" alt=""/>&nbsp; Strengths</h3>
+<h3><img src="https://api.iconify.design/tabler/certificate.svg?color=%2322d3ee&width=22" align="top" alt=""/>&nbsp; Also</h3>
 
-`Team Leadership` `Problem Solving`<br/>
-`Adaptability` `Cross-cultural Communication`<br/>
-`Technical Reporting`
+<img src="https://img.shields.io/badge/Driving_Licence-B-151515?style=flat-square&labelColor=151515&color=0F2A44" alt="Driving licence B"/><br/>
+<img src="https://img.shields.io/badge/Lifeguard-Experience-151515?style=flat-square&labelColor=151515&color=0F2A44" alt="Lifeguard experience"/>
 
 </td>
 </tr>
 </table>
+
+<br/><br/>
+
+<div align="center">
+
+<h3><img src="https://api.iconify.design/tabler/users-group.svg?color=%2322d3ee&width=22" align="top" alt=""/>&nbsp; Soft Skills</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Leadership-151515?style=for-the-badge" alt="Leadership"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Teamwork-151515?style=for-the-badge" alt="Teamwork"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Problem_Solving-151515?style=for-the-badge" alt="Problem solving"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Adaptability-151515?style=for-the-badge" alt="Adaptability"/>
+
+<img src="https://img.shields.io/badge/Communication-151515?style=for-the-badge" alt="Communication"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Customer_Focus-151515?style=for-the-badge" alt="Customer focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Safety_Mindset-151515?style=for-the-badge" alt="Safety mindset"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Conflict_Resolution-151515?style=for-the-badge" alt="Conflict resolution"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%"><b>Leading under responsibility</b><br/><sub>Guiding dive and snorkel groups and supervising children at camp, where safety comes first.</sub></td>
+<td align="center" width="33%"><b>International mindset</b><br/><sub>Two seasons working in the USA; comfortable communicating in English with diverse teams and clients.</sub></td>
+<td align="center" width="33%"><b>Operational ownership</b><br/><sub>Managed boat rentals and day-to-day logistics end to end, solving problems on the spot.</sub></td>
+</tr>
+</table>
+
+</div>
 
 <br/><br/>
 
